@@ -180,3 +180,6 @@ Used **Resnet50** for transfer learnings
 
 
 Accuracy has been achieved up to **80%** with **100 epochs**
+
+## Results
+The main findings of the code can be found at the post available [here](https://medium.com/@ali.hany65/dog-breed-classifier-a66b71fce974?source=friends_link&sk=feae15ee3609a38936934a2863f64063)
